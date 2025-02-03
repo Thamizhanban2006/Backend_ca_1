@@ -1,0 +1,24 @@
+{
+  "name": "backend_ca_1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Thamizhanban2006/Backend_ca_1#readme",
+  "bugs": {
+    "url": "https://github.com/Thamizhanban2006/Backend_ca_1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thamizhanban2006/Backend_ca_1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":""
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
